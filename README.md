@@ -5,4 +5,4 @@ Cara menggunakan
 2. clone project
 3. npm install
 4. untuk backend jalankan command nodemon index difolder backend
-5. untuk frontend jalankan cimmand npm start difolder frontend
+5. untuk frontend jalankan command npm start difolder frontend
